@@ -1,0 +1,17 @@
+body {
+   background-color: rgb(190, 198, 196); 
+}
+
+.navbar-text, a:link {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.dropdown-item1 {
+    color: black;
+}
+
+.logo {
+    width: 7%;
+    padding-left: 50%;
+}
