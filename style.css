@@ -1,0 +1,57 @@
+body {
+    max-height: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(190, 198, 196);
+}
+
+div {
+    height: 100%;
+}
+
+footer {
+    background-color: rgba(138, 141, 143, 1.000);
+    margin-top: 32%;
+    font-size: x-large;
+}
+
+.topbox {
+    width: 7%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.topboxdetails {
+    background-color: rgb(138, 141, 143);
+}
+
+div.aboutlink {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: x-large;
+    color: rgb(51, 63, 72);
+}
+
+.carouselslidedetails {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-top: 60px;
+}
+
+.testdetails {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    
+}
+
+.grid {
+    display: flex;
+    grid-gap: 100px;
+    grid-template-columns: repeat(3, 1000px);
+    grid-template-rows: repeat(3, 1000px);
+  }
+
